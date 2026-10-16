@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Camera body with a downward arrow, drawn inside the 66dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFF2F2F2"
+        android:pathData="M38,38h8l4,-5h10l4,5h8a4,4 0,0 1,4 4v24a4,4 0,0 1,-4 4H38a4,4 0,0 1,-4 -4V42a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#FF101114"
+        android:pathData="M54,54m-11,0a11,11 0,1 1,22 0a11,11 0,1 1,-22 0" />
+    <path
+        android:fillColor="#FFFF8A00"
+        android:pathData="M51,46h6v8h4l-7,8 -7,-8h4z" />
+</vector>

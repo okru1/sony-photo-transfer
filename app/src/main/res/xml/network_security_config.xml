@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  The camera only speaks plain HTTP on its own access point. Its address is
+  normally 192.168.122.1 but may be discovered via SSDP, so cleartext cannot be
+  limited to one host. The app never contacts any server other than the camera.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

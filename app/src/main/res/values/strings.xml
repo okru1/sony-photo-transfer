@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sony Photo Transfer</string>
+    <string name="notification_channel_transfers">Transferencias</string>
+    <string name="notification_channel_transfers_description">Progreso de las descargas desde la cámara</string>
+    <string name="notification_transfer_title">Descargando fotografías</string>
+    <string name="notification_cancel">Cancelar</string>
+</resources>
